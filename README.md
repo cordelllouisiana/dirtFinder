@@ -1,7 +1,7 @@
 # dirtFinder
 
 
-Hi thanks for viewing my code submission. 
+Hi thanks for viewing Dirt Finder. 
 
 
 Please use command line and have node js installed as a prereq. 
